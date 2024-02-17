@@ -1,3 +1,4 @@
+#plaindrome number
 num =101
 rev = 0
 temp=num
@@ -11,10 +12,10 @@ if(temp==rev):
 else:
         print("not plaindrome ")
 
+#plaindrome string 
 
-
-# str="hih"
-# if (str==str[::-1]):
-#        print("the string is plaindrome")
-# else:
-#        print("not plaindrome")       
+str="hih"
+if (str==str[::-1]):
+       print("the string is plaindrome")
+else:
+       print("not plaindrome")       
