@@ -1,3 +1,4 @@
+#prime number using while loop
 n = int(input("enter the number:"))
 
 # count = 0
@@ -14,6 +15,8 @@ n = int(input("enter the number:"))
 #     print("no is not prime no")
 
 
+
+# prime number using range()
 if n==1:
     print(n,"is not prime no")
 elif n>1:
